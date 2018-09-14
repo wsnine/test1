@@ -1,0 +1,16 @@
+{
+    "name": "test1",
+    "version": "0.1.0",
+    "dependencies": {
+        "montage": "~17.0.11",
+        "digit": "~3.0.0"
+    },
+    "devDependencies": {
+        "montage-testing": "~0.5.1"
+    },
+    "exclude": [
+        "run-tests.html",
+        "test"
+    ],
+    "bundle": [ "ui/main.reel" ]
+}
